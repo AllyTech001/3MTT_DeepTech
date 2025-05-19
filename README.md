@@ -42,3 +42,6 @@ This project is submitted for the 3MTT Knowledge Showcase, an initiative encoura
 
 Contributing:
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
+
+To Demonstarte how it work you can choose to replace those images in the reference Folder with Yours save it with the Name you want to show
+Example Aliyu.jpg, Aliyu.png whatevr
